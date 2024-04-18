@@ -6,7 +6,7 @@ Did you know that, in 2008 and 2009, there were 547 crimes recorded in the city 
 
 Specific analysis for 2008 and 2009 separately:
 
-IN 2008
+IN 2008:
 
 There were 224 crimes.
 Out of those 224 crimes, there were 54 arrests and 170 crimes went unsolved.
@@ -14,7 +14,8 @@ The most dangerous area was area 67 (West Englewood) with 8 homicides.
 Out of the 54 arrests, 45 were for murder.
 Out of the 170 unsolved crimes, 60 were for murder, and 56 were for robbery.
 There were no narcotics-related crimes registered.
-IN 2009
+
+IN 2009:
 
 There were 323 crimes.
 Out of those 323 crimes, there were 125 arrests and 198 went unsolved.
