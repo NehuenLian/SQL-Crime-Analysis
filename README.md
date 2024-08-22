@@ -37,4 +37,4 @@ On the other hand, robbery has had very few arrests in relation to the cases tha
 
 For this work, I have used MySQL (MySQL Workbench), Python, Excel, and matplotlib both to extract the data and to create the graphs that I will leave below for a better understanding of the analysis.
 
-Note: In the second and third graphs, "True" is understood as successful arrests and "False" is understood as unsuccessful arrests.
+Disclaimer: In the second and third graphs, "True" is understood as successful arrests and "False" is understood as unsuccessful arrests.
