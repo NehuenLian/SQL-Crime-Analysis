@@ -1,6 +1,6 @@
 Hello!
 
-I have decided to carry out a data analysis project, focused on crime in the city of Chicago, between the years 2008 and 2009. This analysis reveals details about arrests, trends, most predominant crimes, and the areas that were most prone to experience such incidents.
+I have decided to carry out a data analysis project, focused on crime in the city of Chicago, between the years 2008 and 2009. This analysis reveals details about arrests, trends, most predominant crimes, and the areas that were most prone to experience such incidents. Presenting a scenario where a real estate company wanted to acquire properties but needed to know which areas were the safest, as this attracts buyers.
 
 Did you know that, in 2008 and 2009, there were 547 crimes recorded in the city of Chicago? Additionally, out of those 547 crimes, homicide is the most frequent, with 336 cases.
 
